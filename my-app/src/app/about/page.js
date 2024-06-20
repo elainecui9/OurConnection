@@ -6,7 +6,7 @@ import Link from "next/link";
 import WINDLogo from "../Assets/WINDLogo.webp"
 
 
-function Letters() {
+function About() {
     return (
         <section id="contact">
             <Header></Header>
@@ -74,4 +74,4 @@ function Letters() {
     );
 }
 
-export default Letters;
+export default About;
